@@ -81,8 +81,8 @@ MORTIS/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/FHGNet.git
-cd FHGNet
+git clone https://github.com/your-username/MORTIS.git
+cd MORTIS
 ```
 
 2. Install dependencies:
@@ -146,4 +146,5 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the authors.
+
 
