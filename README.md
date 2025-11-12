@@ -35,9 +35,7 @@ This repository contains the official implementation of FHGNet(FHGNet: A Feature
 ```
 MORTIS/
 ├── checkpoints/              # Model checkpoints and results
-│   ├── best_model.pth       # Trained model weights
-│   ├── test_data_and_results.npz
-│   └── tst_extracted_features.npz
+│   ├── best_model.pth       # Trained model weight will be stored here
 ├── configs.py               # Configuration parameters
 ├── data/                    # Data loading and preprocessing
 │   ├── __init__.py
@@ -66,12 +64,9 @@ MORTIS/
 │   ├── masking.py          # Attention masking utilities
 │   ├── metrics.py          # Evaluation metrics
 │   └── normalizer.py       # Data normalization
-├── scripts/
-│   └── test_model_training.py  # Unit tests
 ├── train.py                # Training script
 ├── test.py                 # Testing script
 ├── requirement.txt         # Python dependencies
-├── main.tex               # Paper manuscript (LaTeX)
 └── LICENSE
 ```
 
@@ -151,3 +146,4 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the authors.
+
