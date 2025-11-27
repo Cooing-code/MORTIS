@@ -34,7 +34,7 @@ This repository contains the official implementation of FHGNet(FHGNet: A Feature
 
 ![fig4](./pictures/3d_gat_attention_weight_distribution_for_SVDB_dataset.png)
 
-![fig5](./pictures/performance_threshold_comparison.png)
+
 
 ## Repository Structure
 
