@@ -26,9 +26,15 @@ This repository contains the official implementation of FHGNet(FHGNet: A Feature
 - Mirrors clinical decision-making workflow for improved minority class detection
 - Confidence-based rejection mechanism for uncertain predictions
 
-![fig1](./pictures/fig1.png)
+![fig1](./pictures/framework.png)
 
-![fig2](./pictures/fig2.png)
+![fig2](./pictures/r-peak.png)
+
+![fig3](./pictures/gat_attention_network_combined_circular_thresholds.png)
+
+![fig4](./pictures/3d_gat_attention_weight_distribution_for_SVDB_dataset.png)
+
+![fig5](./pictures/performance_threshold_comparison.png)
 
 ## Repository Structure
 
@@ -146,5 +152,4 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the authors.
-
 
