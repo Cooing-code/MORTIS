@@ -142,7 +142,14 @@ python test.py
 If you use this code or model in your research, please cite:
 
 ```bibtex
-coming soon...
+@article{Ju2026FHGNet,
+  author    = {Ju, Xiaorong and Liu, Tong and Luo, Bin and others},
+  title     = {FHGNet: A Feature-Centric Hierarchical Network with Graph Attention Layer for Supraventricular Tachycardia Classification},
+  journal   = {Interdisciplinary Sciences: Computational Life Sciences},
+  year      = {2026},
+  doi       = {10.1007/s12539-025-00802-7},
+  url       = {https://doi.org/10.1007/s12539-025-00802-7}
+}
 ```
 
 ## License
@@ -152,4 +159,5 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the authors.
+
 
