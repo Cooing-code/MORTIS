@@ -143,7 +143,7 @@ If you use this code or model in your research, please cite:
 
 ```bibtex
 @article{Ju2026FHGNet,
-  author    = {Ju, Xiaoling and Liu, Tong and Luo, Bowen and others},
+  author    = {Ju, Xiaolin and Liu, Tao and Luo, Bowen and others},
   title     = {FHGNet: A Feature-Centric Hierarchical Network with Graph Attention Layer for Supraventricular Tachycardia Classification},
   journal   = {Interdisciplinary Sciences: Computational Life Sciences},
   year      = {2026},
@@ -159,6 +159,7 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Contact
 
 For questions or issues, please open an issue on GitHub or contact the authors.
+
 
 
 
